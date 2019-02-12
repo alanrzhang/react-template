@@ -6,9 +6,9 @@ class App extends React.Component {
     }
     render() {
         return(
-            <div>test react</div>
-        )
+            <div>Test from react</div>
+        );
     }
 }
 
-export default App
+export default App;
